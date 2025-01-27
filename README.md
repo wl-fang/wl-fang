@@ -1,7 +1,9 @@
-👋 hi
+# 👋 hello
+
 c++, java, python, lua
 
 💻 make game
+
 📝 competitive programming
 
 ig: wfang69
